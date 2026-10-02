@@ -12,7 +12,7 @@
 
 `dist` 目录中的 `MHWIShoplistManager.exe` 为单文件版，无需安装 Python。把 exe 放在项目根目录（`facility` 文件夹旁）后双击运行即可。
 
-1. 将本工具放置于 `.../Monster Hunter World/nativePC/common/facility/` 文件夹内。
+1. 将本工具放置于 `.../Monster Hunter World/nativePC/common/facility/` 文件夹旁。
 2. 双击打开，程序会自动列出当前`facility` 目录下的已有的所有商店分页文件 `.slt` 。
 3. 点击你想使用的页面编号，看到`[已启用]`提示即可。
 
